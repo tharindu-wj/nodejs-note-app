@@ -1,1 +1,1 @@
-# Simple CRUD app in NodeJs
+# Simple command line argument based CRUD app in NodeJs with JSON file
